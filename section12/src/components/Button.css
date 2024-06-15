@@ -1,0 +1,9 @@
+.button {
+    background-color: rgb(236,236,236);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    white-space: nowrap; /* 줄바꿈 방지. 텍스트가 컨테이너 너비를 초과하더라도 강제로 줄바꿈이 되지 않게 함.*/
+}
